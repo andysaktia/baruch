@@ -11,12 +11,16 @@ Baruch (Hebrew: בָּרוּךְ‎) merupakan kata yang berarti diberkatilah. S
 
 Demikianlah diberkatilah negaraku Indonesia. Kiranya kasih karunia Tuhan Yang Mahatinggi ada padamu dan umat percaya-Nya. Baruch my id, baruch my Indonesia. 
 
+---
+
 ## Tujuan
 Seperti namanya tujuan situs ini agar menjadi informasi berkat bagi para pembaca dan pendengar, sekaligus menjadi situs dokumentasi bahan-bahan, dan pintu masuk ke berbagai jenis jalur informasi (text dan audio) 
 
 > Jadi, iman timbul dari pendengaran, dan pendengaran oleh firman Kristus.
 >
 > – Rom 10:17 
+
+---
 
 ## Logo
 Mengambil dari huruf pertama ibrani aleph atau huruf A pada latin, yang merupakan huruf pertama dari nama penulis. Selain itu Aleph mengingatkan penulis akan Tuhan juga. Karena Ia adalah Aleph, yang pertama, yang sulung. Kiranya semakin menjadi pengingat hidup untuk Dia. 
@@ -25,10 +29,15 @@ Mengambil dari huruf pertama ibrani aleph atau huruf A pada latin, yang merupaka
 > 
 > – Kol 1:15 
 
+---
 
 ## Situs Spesifikasi
 + Jekyll - static blog generator, theme scribble
 + Github - repositori dan hosting
 + Domain beli di Niagahoster
 
-[Twitter](https://twitter.com/mudahbertumbuh).
+---
+
+## Sosmed
++ [Instagram](https://instagram.com/mudahbertumbuh)
++ [Twitter](https://twitter.com/mudahbertumbuh)

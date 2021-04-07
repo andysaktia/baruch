@@ -8,7 +8,7 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 #baseurl: ''
-url: 'https://andysaktia.github.io/baruch'
+url: 'https://baruch.my.id'
 
 
 links:

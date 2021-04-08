@@ -7,7 +7,7 @@ Ketika kita mengerti arti dari kata "nama", pengertian kita tidak sebatas hanya 
 
 ---
 ### Baca Artikel:
-<a href="s.id/artikel-mb-1a" class="pa3 tc ba br2 db"><img src="{{ site.url }}/images/karyakarsa.png" width="15px"/> Karyakarsa</a>
+<a href="s.id/artikel-mb-1a" class="pa3 tc ba br2 db flex content-center justify-center"><img src="{{ site.url }}/images/karyakarsa.png" width="20px" class="br-2 mr-1"/>Karyakarsa</a>
 
 ### Dengar Podcast:
-<a href="https://open.spotify.com/episode/2K8t8QKrw4gs73Mt6Pd0fq?si=cIV0K8CeQGmRKN--KSrr3Q" class="pa3 tc ba br2 db"><img src="{{ site.url }}/images/spotify.png" width="15px"/>Spotify</a>
+<a href="https://open.spotify.com/episode/2K8t8QKrw4gs73Mt6Pd0fq?si=cIV0K8CeQGmRKN--KSrr3Q" class="pa3 tc ba br2 db flex content-center justify-center"><img src="{{ site.url }}/images/spotify.png" width="20px" class="br-2 mr-1" />Spotify</a>

@@ -7,6 +7,9 @@
 .reded{
   color: #834f4f;
 }
+.whiteIm{
+  color: #fff !important;
+}
 /* Markdown styles */
 .markdown-body a {
   text-decoration: none;

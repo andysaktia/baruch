@@ -5,6 +5,6 @@ $(function() {
     $("body").toggleClass("dark-gray");
     $("body div.mb7").toggleClass("bg-white");
     $(".markdown-body a").toggleClass("b--black");
-    $(".markdown-body a").toggleClass("white");
+    $(".markdown-body a").toggleClass("whiteIm");
   });
 });

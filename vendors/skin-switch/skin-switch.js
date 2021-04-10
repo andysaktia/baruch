@@ -1,6 +1,10 @@
 $(function() {
   $('#change-skin').on('click', function () {
     $("body").toggleClass("page-dark-mode");
-    //BeautifulJekyllJS.initNavbar();
+    $("body").toggleClass("bg-super-white");
+    $("body").toggleClass("dark-gray");
+    $("body div:first-child").toggleClass("bg-white");
+    $(".markdown-body a").toggleClass("b--black");
+    $(".markdown-body a").toggleClass("white");
   });
 });
